@@ -1,6 +1,6 @@
-# Subapp Style Node
+# Subapp Style Express
 
-Run mountable apps in Node
+Run mountable apps in Express
 
 ## Usage
 
